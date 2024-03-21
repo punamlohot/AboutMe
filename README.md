@@ -1,7 +1,7 @@
 👋 Hello and welcome to my GitHub repository! I'm Punam Lohot, 
 A passionate full-stack developer with a knack for crafting robust and innovative web solutions. Here you'll find a showcase of my projects, ranging from web applications to software tools, all designed with a focus on usability, performance, and scalability.
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
