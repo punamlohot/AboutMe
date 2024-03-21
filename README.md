@@ -10,24 +10,25 @@ I thrive on the thrill of turning ideas into reality through code. With a strong
 Take a tour through my portfolio and explore a diverse range of projects that showcase my skills and expertise:
 
 Project 1: 
-Description of the project, 
-highlighting its purpose, 
-technologies used, 
-and any notable features or accomplishments.
+Food Ordering Website 
+Fully responsive website where you can order food online. 
+Frontend technologies : ReactJs , Bootstrap  
 
 Project 2: 
-Description of the project, 
-highlighting its purpose, 
-technologies used, 
-and any notable features or accomplishments.
+Bharat-Bloggers 
+Fully responsive content management website where you can write blogs, publish them .
+Frontend technologies : ReactJs , Bootstrap etc
+Backend technologies : NodeJs , ExpressJs etc
 
-Project 3: Description of the project, 
-highlighting its purpose, 
-technologies used, 
-and any notable features or accomplishments.
+Project 3:
+Weather Forecast
+Check weather of any city with free weather APIs available online.
+Frontend technologies : HTML , CSS , JavaScript 
 
 -----Get in Touch----
 
 I'm always open to collaboration, feedback, or just a friendly chat! Feel free to reach out to me via email or connect with me on LinkedIn to discuss potential opportunities or share your thoughts on my work.
+LinkedIn - https://www.linkedin.com/in/punam-lohot-a05524202/
+Blog - https://realisationssss.blogspot.com/
 
 Thank you for stopping by, and I hope you enjoy exploring my portfolio as much as I enjoyed building it!
