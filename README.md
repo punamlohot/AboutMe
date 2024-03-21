@@ -17,7 +17,7 @@
 </h1>
 
 Welcome to my GitHub repository! I'm <b>Punam Lohot</b> ,
-A passionate full-stack developer with a knack for crafting robust and innovative web solutions. Here you'll find a showcase of my projects, ranging from web applications to software tools, all designed with a focus on usability, performance, and scalability.
+A passionate <b> full-stack developer </b> with a knack for crafting robust and innovative web solutions. Here you'll find a showcase of my projects, ranging from web applications to software tools, all designed with a focus on usability, performance, and scalability.
 
 
 ------About Me------
