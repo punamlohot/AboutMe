@@ -48,8 +48,6 @@ Frontend technologies : HTML , CSS , JavaScript
 
 I'm always open to collaboration, feedback, or just a friendly chat! Feel free to reach out to me via email or connect with me on LinkedIn to discuss potential opportunities or share your thoughts on my work.
 
-LinkedIn - https://www.linkedin.com/in/punam-lohot-a05524202/
-
 Email - punamlohot4@gmail.com
 
 Blog - https://realisationssss.blogspot.com/
