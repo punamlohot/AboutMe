@@ -22,14 +22,14 @@ A passionate <b> full-stack developer </b> with a knack for crafting robust and 
 
 <h1>
   About Me
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpuYWxrYWZoYW9pMnpucnh2a3JhZHpiZjEzNmFiOGQ5NnJzdmJuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXkraFrlIW1D25M6ZJ/giphy.gif" width="30px"/>
 </h1>
 
 I thrive on the thrill of turning ideas into reality through code. With a strong foundation in both front-end and back-end development, I specialize in building dynamic and responsive web applications using cutting-edge technologies. Whether it's crafting intuitive user interfaces with HTML, CSS, and JavaScript, or architecting powerful server-side systems with Node.js and Express, I'm constantly pushing the boundaries of what's possible in the digital world.
 
 <h1>
   My Projects
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B1cDF3aXV6MHNzZGtmNHRzeXdhNnFmZ2VnbjRsenQ0aG5lc2UxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oKBBlSrgLhLO0/giphy.gif" width="30px"/>
+<img src="" width="30px"/>
 </h1>
 
 Take a tour through my portfolio and explore a diverse range of projects that showcase my skills and expertise:
