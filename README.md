@@ -34,7 +34,7 @@ I thrive on the thrill of turning ideas into reality through code. With a strong
 
 Take a tour through my portfolio and explore a diverse range of projects that showcase my skills and expertise:
 
-Project 1: 
+<b>Project 1: </b>
 Food Ordering Website 
 
 Fully responsive website where you can order food online. 
@@ -42,7 +42,7 @@ Fully responsive website where you can order food online.
 Frontend technologies : ReactJs , Bootstrap  
 
 
-Project 2: 
+<b>Project 2: </b>
 Bharat-Bloggers 
 
 Fully responsive content management website where you can write blogs, publish them .
@@ -51,7 +51,7 @@ Frontend technologies : ReactJs , Bootstrap etc
 
 Backend technologies : NodeJs , ExpressJs etc
 
-Project 3:
+<b>Project 3: </b>
 Weather Forecast
 
 Check weather of any city with free weather APIs available online.
