@@ -36,18 +36,26 @@ Take a tour through my portfolio and explore a diverse range of projects that sh
 
 Project 1: 
 Food Ordering Website 
+
 Fully responsive website where you can order food online. 
+
 Frontend technologies : ReactJs , Bootstrap  
+
 
 Project 2: 
 Bharat-Bloggers 
+
 Fully responsive content management website where you can write blogs, publish them .
+
 Frontend technologies : ReactJs , Bootstrap etc
+
 Backend technologies : NodeJs , ExpressJs etc
 
 Project 3:
 Weather Forecast
+
 Check weather of any city with free weather APIs available online.
+
 Frontend technologies : HTML , CSS , JavaScript 
 
 <h1>
