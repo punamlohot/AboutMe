@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center>
   <a href="https://www.linkedin.com/in/punam-lohot-a05524202/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,7 +11,12 @@
   </a>
 </div>
 
-👋 Hello and Welcome to my GitHub repository! I'm <b>Punam Lohot</b> ,
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+Welcome to my GitHub repository! I'm <b>Punam Lohot</b> ,
 A passionate full-stack developer with a knack for crafting robust and innovative web solutions. Here you'll find a showcase of my projects, ranging from web applications to software tools, all designed with a focus on usability, performance, and scalability.
 
 
