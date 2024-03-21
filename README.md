@@ -52,7 +52,7 @@ Frontend technologies : HTML , CSS , JavaScript
 
 <h1>
   Get In Touch
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW11dTdzMXd3ZDI1MW94ZGp6Mmg0dWJ5dm12MXFmOWFodnBueXBjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIgT73ICZOOZqNCNs7/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN202eXI0czQ3bHd1Z3FzNzQ5cms2eXhheWdoODh4NHVtZjdqNTQ3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yvBI1StMq4TwxUCGRn/giphy.gif" width="30px"/>
 </h1>
 
 I'm always open to collaboration, feedback, or just a friendly chat! Feel free to reach out to me via email or connect with me on LinkedIn to discuss potential opportunities or share your thoughts on my work.
