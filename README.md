@@ -12,7 +12,7 @@
 </div>
 
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -29,7 +29,7 @@ I thrive on the thrill of turning ideas into reality through code. With a strong
 
 <h1>
   My Projects
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B1cDF3aXV6MHNzZGtmNHRzeXdhNnFmZ2VnbjRsenQ0aG5lc2UxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oKBBlSrgLhLO0/giphy.gif" width="30px"/>
 </h1>
 
 Take a tour through my portfolio and explore a diverse range of projects that showcase my skills and expertise:
