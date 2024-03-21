@@ -2,9 +2,7 @@
 A passionate full-stack developer with a knack for crafting robust and innovative web solutions. Here you'll find a showcase of my projects, ranging from web applications to software tools, all designed with a focus on usability, performance, and scalability.
 
 <div id="header" align="center">
-<div style="width:100%;height:0;padding-bottom:126%;position:relative;">
-<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div><p><a href="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
+<img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFtazA0MjYxNTdwcWNpa3UwMWd1ang3aDgxNHZteG5lZWhodzJoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif"
 </div>
 
 ------About Me------
